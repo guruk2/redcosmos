@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>734865674352-hd6a9bhi6lehkrl25ah3ds08m1g59ifa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.734865674352-hd6a9bhi6lehkrl25ah3ds08m1g59ifa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>734865674352-goa22pf4mi5dbtnc2jl5bdf54qcbirn3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCreTz_uwlCbIzit9g6hWSn1JArZBEVU7U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>734865674352</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.redcosmos.shop</string>
+	<key>PROJECT_ID</key>
+	<string>redcosmos-8d4c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>redcosmos-8d4c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:734865674352:ios:0151e5fcaecf06aa5ce4b5</string>
+</dict>
+</plist>

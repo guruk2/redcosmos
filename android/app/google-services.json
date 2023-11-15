@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734865674352",
+    "project_id": "redcosmos-8d4c5",
+    "storage_bucket": "redcosmos-8d4c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734865674352:android:212bf57bdfbeda045ce4b5",
+        "android_client_info": {
+          "package_name": "com.redcosmos.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734865674352-4jvidv70h4pcl5nekmnjt3pd4mccchiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0SZaZyO6S2OhxhdXBo132NqqKJ8Yostg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734865674352-4jvidv70h4pcl5nekmnjt3pd4mccchiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
